@@ -1,1 +1,2 @@
 noi dung2 by 1 nguoi nao do
+noi dung2 by uart
